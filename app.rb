@@ -7,7 +7,7 @@ class App < Sinatra::Base
    get '/hometown' do
     "Hello,World"
   end
-   get '/name' do
+   get '/favorite-song' do
     "Hello,World"
   end
   
