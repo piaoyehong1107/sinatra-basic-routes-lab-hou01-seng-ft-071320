@@ -4,7 +4,7 @@ class App < Sinatra::Base
   get '/name' do
     "Hello,World"
   end
-   get '/name' do
+   get '/hometown' do
     "Hello,World"
   end
    get '/name' do
